@@ -1,0 +1,17 @@
+.todoDataMain{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 80%;
+}
+
+.todoDataDiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid;
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+}

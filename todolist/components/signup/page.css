@@ -1,0 +1,24 @@
+.signupMain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.signupMain input{
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 6px;
+    border: 1px solid;
+}
+
+.signupMain button{
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid;
+    cursor: pointer;
+    background-color: rgba(39, 76, 199, 0.696);
+    color: white;
+}
